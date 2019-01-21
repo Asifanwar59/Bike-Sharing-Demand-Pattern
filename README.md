@@ -1,3 +1,12 @@
+# Bike Sharing Dataset
+Hadi Fanaee-T
+
+Laboratory of Artificial Intelligence and Decision Support (LIAAD), University of Porto
+INESC Porto, Campus da FEUP
+Rua Dr. Roberto Frias, 378
+4200 - 465 Porto, Portugal
+
+
 # Bike-Sharing-Demand-Pattern
 The deep learning model predicts daily bike rental ridership. It demonstrates a neural network model including forward pass, backpropagationa and sigmoid activation function. 
 
