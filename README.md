@@ -27,6 +27,7 @@ events in the city could be detected via monitoring these data.
 1. All the code in the notebook runs in Python 3.
 2. Model includes unit tests to test each stage of the model.
 3. GPU is not required to run this model.
+4. The html file contains code along with the sample output generated on executing the code.
 
 # Model Specifications
 __Note__ The model is reviewed by Udacity team to satisfy the criterions:
